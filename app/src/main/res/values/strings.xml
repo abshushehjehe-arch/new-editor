@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ClipSlice</string>
+    <string name="nav_studio">स्टूडियो</string>
+    <string name="nav_clips">क्लिप्स</string>
+    <string name="nav_history">प्रोजेक्ट्स</string>
+    <string name="content_desc_app_icon">ClipSlice studio logo</string>
+    <string name="content_desc_studio_hero">Dark video timeline illustration</string>
+    <string name="content_desc_clip_thumb">Video frame preview at clip timestamp</string>
+    <string name="content_desc_play_clip">Play clip preview</string>
+    <string name="content_desc_edit_clip">Edit clip timestamps</string>
+    <string name="content_desc_delete_clip">Delete clip</string>
+    <string name="content_desc_share_clip">Share clip</string>
+    <string name="content_desc_help">How to copy YouTube Gemini timestamps</string>
+    <string name="content_desc_language">Switch between Hindi and English</string>
+    <string name="content_desc_close">Close</string>
+    <string name="content_desc_settings">Export settings</string>
+</resources>

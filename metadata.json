@@ -1,0 +1,6 @@
+{
+  "name": "ClipSlice",
+  "description": "Cut 5-12+ hour long videos into instant lossless clips by pasting YouTube Gemini timestamps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
